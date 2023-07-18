@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+* {
+    font-family: 'Tektur', cursive;
+}
+
+.bg-adso {
+    background-color: #7096af;
+}
+
+#nosotros {
+    background-color: #e2e0e0;
+    width: 100%;
+    position: relative;
+    padding: 120px 10vw;
+}
+
+#nosotros h2 {
+    color: #7096af;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+#nosotros p {
+    font-size: 20px;
+}
+
+#servicios {
+    width: 100%;
+    padding: 100px 0;
+}
+
+#servicios h2 {
+    color: #7096af;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+#servicios h3 {
+    color: #51758d;
+    font-size: 30px;
+    padding: 25px;
+}
+
+#servicios p {
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+
+.card-servicios {
+    max-width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px auto;
+    border: 2px solid #51758d
+}
+
+.card-servicios img{
+    border-radius: 20px;
+}
+
+#servicios .card-servicios p {
+    font-size: 18px;
+    padding-bottom: 25px;
+}
+
+#preguntas {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+#preguntas h2 {
+    color: #7096af;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+#contactanos h2{
+    color: #7096af;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+
+.redes {
+    padding-bottom: 40px;
+}
+
+.copy {
+    padding: 40px;
+    width: 100%;
+    border-top: 2px solid #51758d;
+}
